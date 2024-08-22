@@ -77,7 +77,7 @@ class CategoriesScreen extends StatelessWidget {
                               "${product.image}",
                               height: 50,
                               width: 50,
-                              fit: BoxFit.contain, // Ensure the image scales properly
+                              fit: BoxFit.contain,
                             ),
                           ),
                         ),
